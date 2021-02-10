@@ -1,22 +1,16 @@
 {
   "chores": [
     {
-      "id": 1,
-      "title": "Wash the dishes",
-      "priority": "piling up",
-      "duration": "30 min"
+      "title": "clean car gain",
+      "priority": "very",
+      "duration": "45",
+      "id": 2
     },
     {
-      "id": 2,
-      "title": "Fix Bed",
-      "priority": "Can Wait",
-      "duration": "3 min"
-    },
-    {
-      "id": 3,
-      "title": "Catch Matt doing weird things",
-      "priority": "MOI IMPORTANTE",
-      "duration": "ongoing, forever"
+      "title": "wash dishes",
+      "priority": "meh",
+      "duration": "30",
+      "id": 3
     }
   ]
 }
